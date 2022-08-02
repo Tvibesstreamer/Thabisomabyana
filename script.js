@@ -74,5 +74,5 @@ $(document).ready(function(){
 
 
 function readMore(){
-    document.getElementById('readmore').innerHTML="I'm also teaching myself more Languges e.g Sql for <br/> database <br/><br/> Here is my frist year practise website <a href='https://tvibesstreamer.github.io/Tvibesstreamer.com/'>link</a>";
+    document.getElementById('readmore').innerHTML="I'm also teaching myself more Languges e.g Sql for <br/> database <br/><br/> Here is my frist year practise website <a href='https://tvibesstreamer.github.io/Fallonclo/'>link</a>";
 }
