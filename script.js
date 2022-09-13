@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
+        strings: ["Developer", "Blogger", "Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Developer", "Designer", "Freelancer"],
+        strings: ["Developer", "Blogger", "Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -74,5 +74,11 @@ $(document).ready(function(){
 
 
 function readMore(){
-    document.getElementById('readmore').innerHTML="I'm also teaching myself more Languges e.g Sql for <br/> database <br/><br/> Here is my frist year practise website <a href='https://tvibesstreamer.github.io/Fallonclo/'>link</a>";
+    document.getElementById('readmore').innerHTML="I'm also teaching myself more Languges e.g Sql for <br/> database <br/><br/> Here is my frist year practise website <a href='https://tvibesstreamer.github.io/Falloclo/'>link</a><br/> database <br/><br/> Here is my Other website <a href='https://tvibesstreamer.github.io/LetumileBakes.com/'>link 2</a>";
+}
+
+// send email
+
+function sendEmail(){
+alert("Information sent Thank you!")
 }
