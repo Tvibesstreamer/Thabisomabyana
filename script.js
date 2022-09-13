@@ -74,7 +74,7 @@ $(document).ready(function(){
 
 
 function readMore(){
-    document.getElementById('readmore').innerHTML="I'm also teaching myself more Languges e.g Sql for <br/> database <br/><br/> Here is my frist year practise website <a href='https://tvibesstreamer.github.io/Falloclo/'>link</a><br/> database <br/><br/> Here is my Other website <a href='https://tvibesstreamer.github.io/LetumileBakes.com/'>link 2</a>";
+    document.getElementById('readmore').innerHTML="I'm also teaching myself more Languges e.g Sql for database <br/><br/> Here is my frist year practise website <a href='https://tvibesstreamer.github.io/Fallonclo/'>link</a><br/><br/> Here is my Other website <a href='https://tvibesstreamer.github.io/LetumileBakes.com/'>link 2</a>";
 }
 
 // send email
